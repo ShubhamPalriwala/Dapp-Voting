@@ -34,14 +34,23 @@ This should print the following in the console
 
  Contract: BallotContract
     ✓ contract deployment
+    
     ✓ valid users registration
+    
     ✓ valid voting
+    
     ✓ validate winner
+    
     ✓ valid votes
+    
     ✓ should NOT accept unauthorized registration
+    
     ✓ should NOT register already registered user
+    
     ✓ should NOT vote from unauthorized account
+    
     ✓ should NOT vote twice
+    
     ✓ should NOT vote unknown person
 
     10 passing
